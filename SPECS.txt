@@ -1,0 +1,11 @@
+Save/Load chart in URL
+
+There are 0x1342F - 0x13000 = 1071 hieroglyphs
+With two a-z0-9 characters = 36 x 36 = 1296, we can identify a hieroglyph.
+For all 26 letters, we need a 52-character string
+
+Text area for typing/decoding script, auto-updates when chart is modified
+
+Since there's no OCR, display "bytecode" for reading encoded text
+
+a3 qe i9 mu k7 etc...
